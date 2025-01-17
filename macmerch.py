@@ -11,7 +11,7 @@ def main():
 
     print(f"The total price is: {total:.2f}")
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
 
 
